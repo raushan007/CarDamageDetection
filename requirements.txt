@@ -12,5 +12,6 @@ pandas>=0.19
 h5py
 keras
 tensorflow
+gevent
 
 
