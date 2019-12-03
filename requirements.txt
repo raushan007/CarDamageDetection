@@ -10,7 +10,7 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 h5py
-tensorflow
+tensorflow==1.14.0
 gevent
 
 
