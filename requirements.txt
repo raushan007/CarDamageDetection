@@ -12,7 +12,7 @@ pandas>=0.19
 h5py
 keras
 tensorflow
-tensorflow.keras
+tf.keras
 gevent
 
 
